@@ -1,4 +1,4 @@
-# RoomEase – Smart & Verified Room Rental and Accommodation Finder
+# Roomify – Smart & Verified Room Rental and Accommodation Finder
 
 > **"Find the right room before you visit."**
 
